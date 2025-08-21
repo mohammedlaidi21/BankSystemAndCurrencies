@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\Desktop\\FullProjectBankSystem\u0026Currencies\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD8A24CE-90B7-4D8A-AA90-E22C29230F61}|FullProjectBankSystem\u0026Currencies\\FullProjectBankSystem\u0026Currencies.vcxproj|C:\\Users\\pc\\Desktop\\11_OOP Application\\Currency_Exchange\\CurrencyCalculator_Screen\\CurrencyCalculator_Screen\\clsScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD8A24CE-90B7-4D8A-AA90-E22C29230F61}|FullProjectBankSystem\u0026Currencies\\FullProjectBankSystem\u0026Currencies.vcxproj|C:\\Users\\pc\\Desktop\\FullProjectBankSystem\u0026Currencies\\FullProjectBankSystem\u0026Currencies\\clsRegisterLoginScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FD8A24CE-90B7-4D8A-AA90-E22C29230F61}|FullProjectBankSystem\u0026Currencies\\FullProjectBankSystem\u0026Currencies.vcxproj|solutionrelative:FullProjectBankSystem\u0026Currencies\\clsRegisterLoginScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD8A24CE-90B7-4D8A-AA90-E22C29230F61}|FullProjectBankSystem\u0026Currencies\\FullProjectBankSystem\u0026Currencies.vcxproj|C:\\Users\\pc\\Desktop\\FullProjectBankSystem\u0026Currencies\\FullProjectBankSystem\u0026Currencies\\FullProjectBankSystem\u0026Currencies.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FD8A24CE-90B7-4D8A-AA90-E22C29230F61}|FullProjectBankSystem\u0026Currencies\\FullProjectBankSystem\u0026Currencies.vcxproj|solutionrelative:FullProjectBankSystem\u0026Currencies\\FullProjectBankSystem\u0026Currencies.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsRegisterLoginScreen.h",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\FullProjectBankSystem\u0026Currencies\\FullProjectBankSystem\u0026Currencies\\clsRegisterLoginScreen.h",
+              "RelativeDocumentMoniker": "FullProjectBankSystem\u0026Currencies\\clsRegisterLoginScreen.h",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\FullProjectBankSystem\u0026Currencies\\FullProjectBankSystem\u0026Currencies\\clsRegisterLoginScreen.h",
+              "RelativeToolTip": "FullProjectBankSystem\u0026Currencies\\clsRegisterLoginScreen.h",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAvwA0AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-17T10:46:07.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsScreen.h",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\11_OOP Application\\Currency_Exchange\\CurrencyCalculator_Screen\\CurrencyCalculator_Screen\\clsScreen.h",
+              "RelativeDocumentMoniker": "..\\11_OOP Application\\Currency_Exchange\\CurrencyCalculator_Screen\\CurrencyCalculator_Screen\\clsScreen.h",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\11_OOP Application\\Currency_Exchange\\CurrencyCalculator_Screen\\CurrencyCalculator_Screen\\clsScreen.h",
+              "RelativeToolTip": "..\\11_OOP Application\\Currency_Exchange\\CurrencyCalculator_Screen\\CurrencyCalculator_Screen\\clsScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAvwBcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-17T10:44:31.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FullProjectBankSystem\u0026Currencies.cpp",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\FullProjectBankSystem\u0026Currencies\\FullProjectBankSystem\u0026Currencies\\FullProjectBankSystem\u0026Currencies.cpp",
+              "RelativeDocumentMoniker": "FullProjectBankSystem\u0026Currencies\\FullProjectBankSystem\u0026Currencies.cpp",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\FullProjectBankSystem\u0026Currencies\\FullProjectBankSystem\u0026Currencies\\FullProjectBankSystem\u0026Currencies.cpp",
+              "RelativeToolTip": "FullProjectBankSystem\u0026Currencies\\FullProjectBankSystem\u0026Currencies.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-08T11:58:16.153Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

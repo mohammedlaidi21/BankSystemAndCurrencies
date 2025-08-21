@@ -1,0 +1,18 @@
+#pragma once
+#include <iostream>
+#include "string"
+
+using namespace std;
+
+
+class clsInterfaceCommunication
+{
+
+public:
+
+	virtual void SendFax(string Title, string Subject) = 0;
+	virtual void SendEmail(string Title, string Subject) = 0;
+	virtual void SendSMS(string Title, string Subject) = 0;
+	
+};
+

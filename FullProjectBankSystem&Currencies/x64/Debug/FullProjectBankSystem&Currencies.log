@@ -1,0 +1,48 @@
+﻿  FullProjectBankSystem&Currencies.cpp
+C:\Users\pc\Desktop\FullProjectBankSystem&Currencies\FullProjectBankSystem&Currencies\clsString.h(39,25): warning C4267: 'return' : conversion de 'size_t' en 'short', perte possible de données
+  (compiler le fichier source 'FullProjectBankSystem&Currencies.cpp')
+  
+C:\Users\pc\Desktop\FullProjectBankSystem&Currencies\FullProjectBankSystem&Currencies\clsString.h(44,29): warning C4267: 'return' : conversion de 'size_t' en 'short', perte possible de données
+  (compiler le fichier source 'FullProjectBankSystem&Currencies.cpp')
+  
+C:\Users\pc\Desktop\FullProjectBankSystem&Currencies\FullProjectBankSystem&Currencies\clsString.h(56,30): warning C4267: '=' : conversion de 'size_t' en 'short', perte possible de données
+  (compiler le fichier source 'FullProjectBankSystem&Currencies.cpp')
+  
+C:\Users\pc\Desktop\FullProjectBankSystem&Currencies\FullProjectBankSystem&Currencies\clsString.h(193,29): warning C4267: 'return' : conversion de 'size_t' en 'short', perte possible de données
+  (compiler le fichier source 'FullProjectBankSystem&Currencies.cpp')
+  
+C:\Users\pc\Desktop\FullProjectBankSystem&Currencies\FullProjectBankSystem&Currencies\clsString.h(324,30): warning C4267: '=' : conversion de 'size_t' en 'short', perte possible de données
+  (compiler le fichier source 'FullProjectBankSystem&Currencies.cpp')
+  
+C:\Users\pc\Desktop\FullProjectBankSystem&Currencies\FullProjectBankSystem&Currencies\clsString.h(372,22): warning C4267: 'initialisation' : conversion de 'size_t' en 'short', perte possible de données
+  (compiler le fichier source 'FullProjectBankSystem&Currencies.cpp')
+  
+C:\Users\pc\Desktop\FullProjectBankSystem&Currencies\FullProjectBankSystem&Currencies\clsUtility.h(64,5): warning C4102: 'defualt' : étiquette non référencée
+  (compiler le fichier source 'FullProjectBankSystem&Currencies.cpp')
+  
+C:\Users\pc\Desktop\FullProjectBankSystem&Currencies\FullProjectBankSystem&Currencies\clsUser.h(165,9): warning C4240: extension non standard utilisée : accès à 'clsUser::stRegisterLogins' défini maintenant comme 'public', était précédemment défini comme 'private'
+  (compiler le fichier source 'FullProjectBankSystem&Currencies.cpp')
+      C:\Users\pc\Desktop\FullProjectBankSystem&Currencies\FullProjectBankSystem&Currencies\clsUser.h(62,9):
+      voir la déclaration de 'clsUser::stRegisterLogins'
+  
+C:\Users\pc\Desktop\FullProjectBankSystem&Currencies\FullProjectBankSystem&Currencies\clsBankClient.h(195,9): warning C4240: extension non standard utilisée : accès à 'clsBankClient::stTransferLog' défini maintenant comme 'public', était précédemment défini comme 'private'
+  (compiler le fichier source 'FullProjectBankSystem&Currencies.cpp')
+      C:\Users\pc\Desktop\FullProjectBankSystem&Currencies\FullProjectBankSystem&Currencies\clsBankClient.h(167,9):
+      voir la déclaration de 'clsBankClient::stTransferLog'
+  
+C:\Users\pc\Desktop\FullProjectBankSystem&Currencies\FullProjectBankSystem&Currencies\clsDeleteClientScreen.h(3,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+  (compiler le fichier source 'FullProjectBankSystem&Currencies.cpp')
+  
+C:\Users\pc\Desktop\FullProjectBankSystem&Currencies\FullProjectBankSystem&Currencies\clsTotalBalancesScreen.h(58,52): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+  (compiler le fichier source 'FullProjectBankSystem&Currencies.cpp')
+  
+C:\Users\pc\Desktop\FullProjectBankSystem&Currencies\FullProjectBankSystem&Currencies\clsUpdateRate.h(19,41): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'FullProjectBankSystem&Currencies.cpp')
+  
+C:\Users\pc\Desktop\FullProjectBankSystem&Currencies\FullProjectBankSystem&Currencies\clsCurrencyCalculator.h(18,43): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'FullProjectBankSystem&Currencies.cpp')
+  
+C:\Users\pc\Desktop\FullProjectBankSystem&Currencies\FullProjectBankSystem&Currencies\clsBankClient.h(343,1): warning C4715: 'clsBankClient::Save' : les chemins de contrôle ne retournent pas tous une valeur
+C:\Users\pc\Desktop\FullProjectBankSystem&Currencies\FullProjectBankSystem&Currencies\clsBankClient.h(410,1): warning C4715: 'clsBankClient::Withdraw' : les chemins de contrôle ne retournent pas tous une valeur
+C:\Users\pc\Desktop\FullProjectBankSystem&Currencies\FullProjectBankSystem&Currencies\clsUser.h(330,1): warning C4715: 'clsUser::Save' : les chemins de contrôle ne retournent pas tous une valeur
+  FullProjectBankSystem&Currencies.vcxproj -> C:\Users\pc\Desktop\FullProjectBankSystem&Currencies\x64\Debug\FullProjectBankSystem&Currencies.exe
